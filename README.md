@@ -18,7 +18,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 ### Gruppo Articuno
 
-| Giocatore         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | Nicola Bordigoni  | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 | Marco Pintus      | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
@@ -34,7 +34,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 ### Gruppo Charizard
 
-| Giocatore         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | Mattia Pastorino  | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 | William Ghelfi    | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
@@ -42,7 +42,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 ### Gruppo Dragonite
 
-| Giocatore         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
 | Francesco Lateano       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 | Michele Fiori     | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
