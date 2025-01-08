@@ -18,35 +18,35 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 ### Gruppo Articuno
 
-| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span>         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| Giocatore         | Vittorie | Turni Giocati |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Nicola Bordigoni  | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Marco Pintus      | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Antonio Carboni   | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
+| Nicola Bordigoni  | 0        | 0            |
+| Marco Pintus      | 0        | 0            |
+| Antonio Carboni   | 0        | 0            |
 
 ### Gruppo Blastoise
 
-| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span>         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| Giocatore         | Vittorie | Turni Giocati |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Gabriele Barsanti | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Luca Spiga        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Barbara Secchi    | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
+| Gabriele Barsanti | 0        | 0            |
+| Luca Spiga        | 0        | 0            |
+| Barbara Secchi    | 0        | 0            |
 
 ### Gruppo Charizard
 
-| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span>         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| Giocatore         | Vittorie | Turni Giocati |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Mattia Pastorino  | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| William Ghelfi    | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Mattia Bellisai   | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
+| Mattia Pastorino  | 0        | 0            |
+| William Ghelfi    | 0        | 0            |
+| Mattia Bellisai   | 0        | 0            |
 
 ### Gruppo Dragonite
 
-| <span style="display: inline-block; width: 100%; text-align: left;">Giocatore</span>         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
+| Giocatore         | Vittorie | Turni Giocati |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Francesco Lateano       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Michele Fiori     | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
-| Marco Melis       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
+| Francesco Lateano       | 0        | 0            |
+| Michele Fiori     | 0        | 0            |
+| Marco Melis       | 0        | 0            |
 
 ## Eliminatorie
 
