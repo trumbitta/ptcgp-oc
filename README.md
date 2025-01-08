@@ -44,7 +44,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | <span style="display: inline-block; width: 100%; text-align: right;">Vittorie</span> | <span style="display: inline-block; width: 100%; text-align: right;">Turni Giocati</span> |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Francesco X       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
+| Francesco Lateano       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 | Michele Fiori     | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 | Marco Melis       | <span style="display: inline-block; width: 100%; text-align: right;">0</span>        | <span style="display: inline-block; width: 100%; text-align: right;">0</span>            |
 
