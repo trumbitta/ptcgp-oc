@@ -36,7 +36,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|-------------------------------------------------------------------------------------:|-----------------------------------------------------------------------------------------:|
-| Mattia Pastorino  | 0        | 0            |
+| Matteo Pastorino  | 0        | 0            |
 | William Ghelfi    | 0        | 0            |
 | Mattia Bellisai   | 0        | 0            |
 
