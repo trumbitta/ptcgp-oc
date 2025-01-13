@@ -48,8 +48,8 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
 | Nicola Bordigoni  | 1        | 30             |
-| Antonio Carboni   | 0        | 0             |
 | Marco Pintus      | 0        | 30             |
+| Antonio Carboni   | 0        | 0             |
 
 #### Calendario dei match:
 - Turno 1: **Nicola Bordigoni** vs Marco Pintus
@@ -73,9 +73,9 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Mattia Bellisai   | 0        | 0             |
 | William Ghelfi    | 1        | 19             |
 | Matteo Pastorino  | 0        | 19             |
+| Mattia Bellisai   | 0        | 0             |
 
 #### Calendario dei match:
 - Turno 1: Matteo Pastorino vs **William Ghelfi**
