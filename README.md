@@ -60,12 +60,12 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Gabriele Barsanti | 0        | 0             |
+| Luca Spiga        | 1        | 21             |
+| Gabriele Barsanti | 0        | 21             |
 | Barbara Secchi    | 0        | 0             |
-| Luca Spiga        | 0        | 0             |
 
 #### Calendario dei match:
-- Turno 1: Gabriele Barsanti vs Luca Spiga
+- Turno 1: Gabriele Barsanti vs **Luca Spiga**
 - Turno 2: Luca Spiga vs Barbara Secchi
 - Turno 3: Barbara Secchi vs Gabriele Barsanti
 
