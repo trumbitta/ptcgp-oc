@@ -54,9 +54,9 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 #### Calendario dei match:
 - Turno 1: **Nicola Bordigoni** vs Marco Pintus
 - Turno 2: Marco Pintus vs Antonio Carboni
-- * Turno 3: Antonio Carboni vs **Nicola Bordigoni**
+- \* Turno 3: Antonio Carboni vs **Nicola Bordigoni**
  
-* Match anticipato per esigenze dei giocatori
+\* Match anticipato per esigenze dei giocatori
 
 ### Gruppo Blastoise
 
