@@ -47,14 +47,16 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Nicola Bordigoni  | 1        | 30             |
+| * Nicola Bordigoni  | 2        | 63             |
 | Marco Pintus      | 0        | 30             |
-| Antonio Carboni   | 0        | 0             |
+| * Antonio Carboni   | 0        | 33             |
 
 #### Calendario dei match:
 - Turno 1: **Nicola Bordigoni** vs Marco Pintus
 - Turno 2: Marco Pintus vs Antonio Carboni
-- Turno 3: Antonio Carboni vs Nicola Bordigoni
+- * Turno 3: Antonio Carboni vs **Nicola Bordigoni**
+ 
+* Match anticipato per esigenze dei giocatori
 
 ### Gruppo Blastoise
 
