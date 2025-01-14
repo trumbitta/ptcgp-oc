@@ -86,12 +86,12 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Michele Fiori     | 0        | 0             |
-| Francesco Lateano | 0        | 0             |
+| Michele Fiori     | 1        | 40             |
+| Francesco Lateano | 0        | 40             |
 | Marco Melis       | 0        | 0             |
 
 #### Calendario dei match:
-- Turno 1: Francesco Lateano vs Michele Fiori
+- Turno 1: Francesco Lateano vs **Michele Fiori**
 - Turno 2: Michele Fiori vs Marco Melis
 - Turno 3: Marco Melis vs Francesco Lateano
 
