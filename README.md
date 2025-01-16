@@ -47,16 +47,14 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| * Nicola Bordigoni  | 2        | 63             |
-| Marco Pintus      | 0        | 30             |
-| * Antonio Carboni   | 0        | 33             |
+| **Nicola Bordigoni**  | **2**        | **63**             |
+| **Antonio Carboni**   | **1**        | **50**             |
+| Marco Pintus      | 0        | 47             |
 
 #### Calendario dei match:
 - Turno 1: **Nicola Bordigoni** vs Marco Pintus
-- Turno 2: Marco Pintus vs Antonio Carboni
-- \* Turno 3: Antonio Carboni vs **Nicola Bordigoni**
- 
-\* Match anticipato per esigenze dei giocatori
+- Turno 2: Marco Pintus vs **Antonio Carboni**
+- Turno 3: Antonio Carboni vs **Nicola Bordigoni**
 
 ### Gruppo Blastoise
 
@@ -88,22 +86,22 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Michele Fiori     | 1        | 40             |
+| Michele Fiori     | 2        | 74             |
 | Francesco Lateano | 0        | 40             |
-| Marco Melis       | 0        | 0             |
+| Marco Melis       | 0        | 34             |
 
 #### Calendario dei match:
 - Turno 1: Francesco Lateano vs **Michele Fiori**
-- Turno 2: Michele Fiori vs Marco Melis
+- Turno 2: **Michele Fiori** vs Marco Melis
 - Turno 3: Marco Melis vs Francesco Lateano
 
 ## Eliminatorie
 
 ### Quarti di Finale
-1. Vincitore Gruppo Articuno vs Secondo Gruppo Blastoise
-2. Vincitore Gruppo Blastoise vs Secondo Gruppo Articuno
+1. Nicola Bordigoni vs Secondo Gruppo Blastoise
+2. Vincitore Gruppo Blastoise vs Antonio Carboni
 3. Vincitore Gruppo Charizard vs Secondo Gruppo Dragonite
-4. Vincitore Gruppo Dragonite vs Secondo Gruppo Charizard
+4. Michele Fiori vs Secondo Gruppo Charizard
 
 ### Semifinali
 1. Vincitore Quarto 1 vs Vincitore Quarto 2
