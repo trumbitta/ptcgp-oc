@@ -86,7 +86,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Michele Fiori     | 2        | 74             |
+| **Michele Fiori**     | **2**        | **74**             |
 | Francesco Lateano | 0        | 40             |
 | Marco Melis       | 0        | 34             |
 
