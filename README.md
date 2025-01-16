@@ -60,22 +60,22 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| Luca Spiga        | 1        | 21             |
+| **Luca Spiga**        | **2**        | **45**             |
 | Gabriele Barsanti | 0        | 21             |
-| Barbara Secchi    | 0        | 0             |
+| Barbara Secchi    | 0        | 24             |
 
 #### Calendario dei match:
 - Turno 1: Gabriele Barsanti vs **Luca Spiga**
-- Turno 2: Luca Spiga vs Barbara Secchi
+- Turno 2: **Luca Spiga** vs Barbara Secchi
 - Turno 3: Barbara Secchi vs Gabriele Barsanti
 
 ### Gruppo Charizard
 
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
-| William Ghelfi    | 1        | 19             |
+| **William Ghelfi**    | **2**        | **55**             |
 | Matteo Pastorino  | 0        | 19             |
-| Mattia Bellisai   | 0        | 0             |
+| Mattia Bellisai   | 0        | 36             |
 
 #### Calendario dei match:
 - Turno 1: Matteo Pastorino vs **William Ghelfi**
@@ -99,8 +99,8 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 ### Quarti di Finale
 1. Nicola Bordigoni vs Secondo Gruppo Blastoise
-2. Vincitore Gruppo Blastoise vs Antonio Carboni
-3. Vincitore Gruppo Charizard vs Secondo Gruppo Dragonite
+2. Luca Spiga vs Antonio Carboni
+3. William Ghelfi vs Secondo Gruppo Dragonite
 4. Michele Fiori vs Secondo Gruppo Charizard
 
 ### Semifinali
