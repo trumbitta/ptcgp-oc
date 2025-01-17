@@ -87,20 +87,20 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
 | **Michele Fiori**     | **2**        | **74**             |
-| Francesco Lateano | 0        | 40             |
+| **Francesco Lateano** | **1**        | **64**             |
 | Marco Melis       | 0        | 34             |
 
 #### Calendario dei match:
 - Turno 1: Francesco Lateano vs **Michele Fiori**
 - Turno 2: **Michele Fiori** vs Marco Melis
-- Turno 3: Marco Melis vs Francesco Lateano
+- Turno 3: Marco Melis vs **Francesco Lateano**
 
 ## Eliminatorie
 
 ### Quarti di Finale
 1. Nicola Bordigoni vs Secondo Gruppo Blastoise
 2. Luca Spiga vs Antonio Carboni
-3. William Ghelfi vs Secondo Gruppo Dragonite
+3. William Ghelfi vs Francesco Lateano
 4. Michele Fiori vs Secondo Gruppo Charizard
 
 ### Semifinali
