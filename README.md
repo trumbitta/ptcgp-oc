@@ -61,13 +61,13 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
 | **Luca Spiga**        | **2**        | **45**             |
-| Gabriele Barsanti | 0        | 21             |
-| Barbara Secchi    | 0        | 24             |
+| **Gabriele Barsanti** | **1**        | **51**             |
+| Barbara Secchi    | 0        | 54             |
 
 #### Calendario dei match:
 - Turno 1: Gabriele Barsanti vs **Luca Spiga**
 - Turno 2: **Luca Spiga** vs Barbara Secchi
-- Turno 3: Barbara Secchi vs Gabriele Barsanti
+- Turno 3: Barbara Secchi vs **Gabriele Barsanti**
 
 ### Gruppo Charizard
 
@@ -79,7 +79,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 
 #### Calendario dei match:
 - Turno 1: Matteo Pastorino vs **William Ghelfi**
-- Turno 2: William Ghelfi vs Mattia Bellisai
+- Turno 2: **William Ghelfi** vs Mattia Bellisai
 - Turno 3: Mattia Bellisai vs **Matteo Pastorino**
 
 ### Gruppo Dragonite
@@ -98,7 +98,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 ## Eliminatorie
 
 ### Quarti di Finale
-1. Nicola Bordigoni vs Secondo Gruppo Blastoise
+1. Nicola Bordigoni vs Gabriele Barsanti
 2. Luca Spiga vs Antonio Carboni
 3. William Ghelfi vs Francesco Lateano
 4. Michele Fiori vs Matteo Pastorino
