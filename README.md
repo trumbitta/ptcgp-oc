@@ -74,13 +74,13 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 | Giocatore         | Vittorie | Turni Giocati |
 |-------------------|----------|---------------|
 | **William Ghelfi**    | **2**        | **55**             |
-| Matteo Pastorino  | 0        | 19             |
-| Mattia Bellisai   | 0        | 36             |
+| **Matteo Pastorino**  | **1**        | **38**             |
+| Mattia Bellisai   | 0        | 55             |
 
 #### Calendario dei match:
 - Turno 1: Matteo Pastorino vs **William Ghelfi**
 - Turno 2: William Ghelfi vs Mattia Bellisai
-- Turno 3: Mattia Bellisai vs Matteo Pastorino
+- Turno 3: Mattia Bellisai vs **Matteo Pastorino**
 
 ### Gruppo Dragonite
 
@@ -101,7 +101,7 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 1. Nicola Bordigoni vs Secondo Gruppo Blastoise
 2. Luca Spiga vs Antonio Carboni
 3. William Ghelfi vs Francesco Lateano
-4. Michele Fiori vs Secondo Gruppo Charizard
+4. Michele Fiori vs Matteo Pastorino
 
 ### Semifinali
 1. Vincitore Quarto 1 vs Vincitore Quarto 2
