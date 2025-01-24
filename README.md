@@ -98,14 +98,14 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 ## Eliminatorie
 
 ### Quarti di Finale
-1. Nicola Bordigoni vs Gabriele Barsanti
-2. Luca Spiga vs Antonio Carboni
+1. **Nicola Bordigoni** 2-0 Gabriele Barsanti
+2. **Luca Spiga** 2-0 Antonio Carboni
 3. William Ghelfi 1-2 **Francesco Lateano**
-4. Michele Fiori vs Matteo Pastorino
+4. **Michele Fiori** 2-0 Matteo Pastorino
 
 ### Semifinali
-1. Vincitore Quarto 1 vs Vincitore Quarto 2
-2. Francesco Lateano vs Vincitore Quarto 4
+1. Nicola Bordigoni vs Luca Spiga
+2. Francesco Lateano vs Michele Fiori
 
 ### Finale
 - Vincitore Semifinale 1 vs Vincitore Semifinale 2
