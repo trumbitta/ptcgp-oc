@@ -104,8 +104,8 @@ Il numero di turni giocati si vede alla fine della partita nella schermata riass
 4. **Michele Fiori** 2-0 Matteo Pastorino
 
 ### Semifinali
-1. Nicola Bordigoni vs Luca Spiga
-2. Francesco Lateano vs Michele Fiori
+1. **Nicola Bordigoni** 2-0 Luca Spiga
+2. Francesco Lateano 0-2 **Michele Fiori**
 
 ### Finale
-- Vincitore Semifinale 1 vs Vincitore Semifinale 2
+- Nicola Bordigoni vs Michele Fiori
